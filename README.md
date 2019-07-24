@@ -8,6 +8,7 @@
 ## Join
 
 * [Element 14 Commmunity](https://www.element14.com/community/welcome)
+* [Hackster.io](https://www.hackster.io/)
 
 ## Watch
 
