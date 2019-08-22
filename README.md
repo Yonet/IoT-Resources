@@ -4,6 +4,8 @@
 
 * [Azure Internet of Things](https://docs.microsoft.com/azure/?WT.mc_id=iotresources-github-ayyonet#pivot=products&panel=iot)
 * [Make Magazine](https://makezine.com/)
+* [MQTT protocol documentation](http://mqtt.org/)
+* [Glossary](./glossary.md)
 
 ### Blog
 
@@ -26,6 +28,7 @@
 ### Starter Kits
 
 * [Adafruit Starter Kits](https://www.adafruit.com/?q=starter%20kit)
+* [Jetson Nano Developer Kit](https://developer.nvidia.com/embedded/jetson-nano-developer-kit)
 
 ## Follow
 
