@@ -21,6 +21,12 @@
 * [Element 14 Youtube](https://www.youtube.com/user/element14)
 * [Make Magazine Youtube](https://www.youtube.com/user/makemagazine)
 
+## Listen
+
+* [Internet of Things Show - Channel 9](https://player.fm/series/internet-of-things-show-audio-channel-9)
+* [IoT for All Podcast](https://www.iotforall.com/podcast/)
+* [IoT Podcast](https://iotpodcast.com/)
+
 ## Buy
 
 * [Adafruit](https://www.adafruit.com/)
