@@ -20,6 +20,7 @@
 
 * [Element 14 Youtube](https://www.youtube.com/user/element14)
 * [Make Magazine Youtube](https://www.youtube.com/user/makemagazine)
+* [Intelligent Video Analytics with NVIDIA Jetson](https://www.youtube.com/playlist?list=PLzgEG9tLG-1QLc-DPPABoW1YWFMPNQl4t)
 
 ## Listen
 
