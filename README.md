@@ -7,14 +7,14 @@
 * [MQTT protocol documentation](http://mqtt.org/)
 * [Glossary](./glossary.md)
 
+
 ### Blog
 
 * [Home Grown IoT - Automated DevOps](https://www.aaron-powell.com/posts/2019-07-22-home-grown-iot-automated-devops/)
 
-## Join
+## Code
 
-* [Element 14 Commmunity](https://www.element14.com/community/welcome)
-* [Hackster.io](https://www.hackster.io/)
+* [IntelligentEdgeHOL](https://github.com/toolboc/IntelligentEdgeHOL)
 
 ## Watch
 
@@ -27,6 +27,11 @@
 * [Internet of Things Show - Channel 9](https://player.fm/series/internet-of-things-show-audio-channel-9)
 * [IoT for All Podcast](https://www.iotforall.com/podcast/)
 * [IoT Podcast](https://iotpodcast.com/)
+
+## Join
+
+* [Element 14 Commmunity](https://www.element14.com/community/welcome)
+* [Hackster.io](https://www.hackster.io/)
 
 ## Buy
 
