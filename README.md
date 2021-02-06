@@ -2,7 +2,7 @@
 
 ## Read
 
-* [Azure Internet of Things](https://docs.microsoft.com/azure/?WT.mc_id=iotresources-github-ayyonet#pivot=products&panel=iot)
+* [Azure Internet of Things](https://docs.microsoft.com/azure/?WT.mc_id=aiml-0000-ayyonet#pivot=products&panel=iot)
 * [Make Magazine](https://makezine.com/)
 * [MQTT protocol documentation](http://mqtt.org/)
 * [Glossary](./glossary.md)
